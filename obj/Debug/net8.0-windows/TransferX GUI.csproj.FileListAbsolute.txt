@@ -1,0 +1,68 @@
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\TransferX GUI.exe
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\TransferX GUI.deps.json
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\TransferX GUI.runtimeconfig.json
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\TransferX GUI.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\TransferX GUI.pdb
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\obj\Debug\net8.0-windows\TransferX GUI.csproj.GenerateResource.cache
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\obj\Debug\net8.0-windows\TransferX GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\obj\Debug\net8.0-windows\TransferX GUI.AssemblyInfoInputs.cache
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\obj\Debug\net8.0-windows\TransferX GUI.AssemblyInfo.cs
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\obj\Debug\net8.0-windows\TransferX GUI.csproj.CoreCompileInputs.cache
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\obj\Debug\net8.0-windows\TransferX GUI.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\obj\Debug\net8.0-windows\refint\TransferX GUI.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\obj\Debug\net8.0-windows\TransferX GUI.pdb
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\obj\Debug\net8.0-windows\TransferX GUI.genruntimeconfig.cache
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\obj\Debug\net8.0-windows\ref\TransferX GUI.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\obj\Debug\net8.0-windows\TransferX_GUI.Properties.Resources.resources
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\obj\Debug\net8.0-windows\TransferX_GUI.ConnectWindow.resources
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\obj\Debug\net8.0-windows\TransferX_GUI.Main.resources
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\Renci.SshNet.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\obj\Debug\net8.0-windows\TransferX GUI.csproj.AssemblyReference.cache
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\obj\Debug\net8.0-windows\Transfer.A02BDCF8.Up2Date
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Yonatan-PC\Desktop\Projects\TransferX\TransferX GUI\TransferX GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
